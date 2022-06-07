@@ -13,6 +13,12 @@ body
 }
 
 
+ol
+{
+    font-weight: bold;
+    font-style: italic;
+}
+
 table
 {
     text-align: center;
